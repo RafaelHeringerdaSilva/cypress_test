@@ -1,0 +1,28 @@
+{
+  "massas": [
+    {
+      "email": "paula.vadao@example.com",
+      "password": "Paula@123"
+    },
+    {
+      "email": "ana.cidade@example.com",
+      "password": "Ana#456"
+    },
+    {
+      "email": "alina.ruda@example.com",
+      "password": "Alina$789"
+    },
+    {
+      "email": "rita.brás@example.com",
+      "password": "Rita%012"
+    },
+    {
+      "email": "ma.riola@example.com",
+      "password": "Mariola*345"
+    },
+    {
+      "email": "neco.tina@example.com",
+      "password": "Neco&678"
+    }
+  ]
+}
